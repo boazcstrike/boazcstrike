@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 busy with postgreSQL, MongoDB, vector database<br>🧠 looking for beautiful startup ideas<br>🗇 copy pasting codes since 2015
+🤖 busy with postgreSQL, MongoDB, vector database<br>🧠 looking for beautiful startup ideas<br>🗇 copy pasting codes since 2014
 
 
 # 💻 Tech Stack:
