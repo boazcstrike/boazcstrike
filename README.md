@@ -1,5 +1,9 @@
 # 💫 About Me:
-🤖 busy with postgreSQL, MongoDB, vector database<br>🧠 looking for beautiful startup ideas<br>🗇 copy pasting codes since 2014
+🔭 Currently: Expanding and upskilling my expertise in AI Technologies.
+🤖 busy with PostgreSQL, MongoDB, vector database.
+🧠 looking for beautiful startup ideas
+🗇 copy-pasting codes since 2014
+👯 Collaboration: Open to working on exciting development projects.
 
 
 # 💻 Tech Stack:
