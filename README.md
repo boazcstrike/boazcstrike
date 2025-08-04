@@ -1,15 +1,16 @@
 # Hi, I'm Bo! 🌑
-🧠🧪 currently: expanding knowledge on AI landscape
-🤖 busy with RAG, scraping, django, nextJS, AWS, and modding games
-🌐 web developer by night and lead engineer by day
-🔭 looking for beautiful startup ideas for a better future
-💾 copy-pasting codes since 2014 (building on top of great tech)
-👯 open to working on exciting projects
+🧠🧪 Currently expanding knowledge on the AI landscape  
+🤖 Busy with RAG, scraping, Django, Next.js, AWS, and modding games  
+🌐 Web developer by night, lead engineer by day  
+🔭 Looking for beautiful startup ideas for a better future  
+💾 Copy-pasting code since 2014 (building on top of great tech)  
+👯 Open to working on exciting projects  
 
-You’re probably wondering why I juggle so many stacks. 
-✨ Simple: build what’s needed, not what’s wanted; ended up speaking multiple dev dialects.
+You’re probably wondering why I juggle so many stacks.  
+✨ Simple: build what’s needed, not what’s wanted; ended up speaking multiple dev dialects.  
+It's a personal preference that works for me, different individuals, different path  
 > “Jack of all trades, master of none — oftentimes better than master of one.”
-It's a personal preference that works for me, different individuals, different path
+
 
 
 # 💻 Tech Stack:
