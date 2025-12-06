@@ -1,185 +1,170 @@
-# Github Repositories
+# GitHub Repositories
 
-https://github.com/C4illin/ConvertX
-A self-hosted online file converter. Supports over a thousand different formats. Written with TypeScript, Bun and Elysia.
+## ⭐ Dev Tools
 
-https://github.com/zaidmukaddam/scira
-A minimalistic AI-powered search engine that helps you find information on the internet.
+- [it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
-https://github.com/toeverything/AFFiNE
-A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro.
-One hyper-fused platform for wildly creative minds.
+## ⭐ Priority Lane
 
-https://github.com/microsoft/OmniParser
-OmniParser is a comprehensive method for parsing user interface screenshots into structured and easy-to-understand elements, which significantly enhances the ability of GPT-4V to generate actions that can be accurately grounded in the corresponding regions of the interface.
+- [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file) - A curated collection of AI agent use cases across various industries.
+- [strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing.
 
-https://github.com/topoteretes/cognee
-Memory for AI Agents in 5 lines of code
+## 🛠️ Developer Tools
 
-https://github.com/HumanSignal/label-studio
-Label Studio is an open source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats. It can be used to prepare raw data or improve existing training data to get more accurate ML models.
+### General
 
-https://github.com/twentyhq/twenty
-Building a modern alternative to Salesforce, powered by the community.
+- [SpaceSniffer](https://github.com/redtrillix/SpaceSniffer) - A freeware disk space analyzer for Windows that uses the Treemap concept.
+- [ConvertX](https://github.com/C4illin/ConvertX) - A self-hosted online file converter. Supports over a thousand different formats.
+- [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
-https://github.com/browser-use/browser-use
-Browser-use is the easiest way to connect your AI agents with the browser.
+### Work
 
-https://github.com/calcom/cal.com
-The open-source Calendly successor.
+- [AFFiNE](https://github.com/toeverything/AFFiNE) - A privacy-focused, local-first, open-source alternative for Notion & Miro.
+- [cal.com](https://github.com/calcom/cal.com) - The open-source Calendly successor.
 
-https://github.com/glanceapp/glance
-A self-hosted dashboard that puts all your feeds in one place
+### Mini Tools
 
-https://github.com/microsoft/markitdown
-Python tool for converting files and office documents to Markdown.
+- [ninja](https://github.com/ninja-build/ninja) - A small build system with a focus on speed.
+- [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [ExifGlass](https://github.com/d2phap/ExifGlass) - EXIF metadata viewing tool.
 
-https://github.com/strapi/strapi
-🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+### PDF
 
-https://github.com/OpenBB-finance/OpenBB
-Investment Research for Everyone, Everywhere.
+- [pdfid](https://github.com/Rafiot/pdfid) - A tool for scanning PDF files for malicious content.
+- [qpdf](https://github.com/qpdf/qpdf) - A content-preserving PDF document transformer.
 
-# MINITOOLS
+### Code Checkers
 
-https://github.com/Rafiot/pdfid
-Clone of PDFiD by Didier Stevens, as a package and with some improvements.
-This tool is not a PDF parser, but it will scan a file to look for certain PDF keywords, allowing you to identify PDF documents that contain (for example) JavaScript or execute an action when opened. PDFiD will also handle name obfuscation.
+- [zizmor](https://github.com/zizmorcore/zizmor) - A code checker.
 
-https://github.com/WerWolv/ImHex
-🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+### Security
 
-https://github.com/gitleaks/gitleaks
-Find secrets with Gitleaks 🔑
+- [gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks.
 
+## 🤖 AI
 
-# CRAWLERS
+### Automation & Agents
 
-https://github.com/NanmiCoder/MediaCrawler
-A powerful multi-platform social media data collection tool that supports crawling public information from mainstream platforms including Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba, Zhihu, and more.
+- [next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [scira](https://github.com/zaidmukaddam/scira) - A minimalistic AI-powered search engine.
+- [label-studio](https://github.com/HumanSignal/label-studio) - An open source data labeling tool.
+- [browser-use](https://github.com/browser-use/browser-use) - The easiest way to connect your AI agents with the browser.
+- [magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent.
+- [inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email.
+- [airi](https://github.com/moeru-ai/airi) - Self-hosted Grok Companion.
+- [crawl4ai](https://github.com/unclecode/crawl4ai) - Blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines.
+- [gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository.
+- [agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems.
+- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - GPT copilot.
+- [parlant](https://github.com/emcie-co/parlant) - LLM agents built for control.
+- [Archon](https://github.com/coleam00/Archon) - The knowledge and task management backbone for AI coding assistants.
+- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Integrates AI capabilities with draw.io diagrams.
+- [VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI.
+- [opencode](https://github.com/sst/opencode) - The open source coding agent.
 
+### Research
 
-# AI Automation / AI Tools
+- [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack.
+- [Automated-AI-Web-Researcher-Ollama (unix)](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - Automated AI Web Researcher using Ollama (Unix).
+- [Automated-AI-Web-Researcher-Ollama (win)](https://github.com/hafeezhmha/Automated-AI-Web-Researcher-Ollama) - Automated AI Web Researcher using Ollama (Windows).
+- [Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) - Fully-Automated Personal AI Assistant.
+- [deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant.
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent for deep research.
+- [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - End-to-end autonomous research workflow.
+- [Autonomous-Agents](https://github.com/tmgthb/Autonomous-Agents) - Research papers on Autonomous Agents (LLMs).
 
-https://github.com/Lightricks/LTX-Video
-Official repository for LTX-Video
+### Generative AI
 
-https://github.com/restyler/awesome-n8n
-Useful n8n resources: list of community nodes and tutorials
+- [LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video.
+- [Wan2.2](https://github.com/Wan-Video/Wan2.2) - Open and Advanced Large-Scale Video Generative Models.
+- [Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating.
+- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps.
+- [open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM.
 
-https://github.com/unclecode/crawl4ai
-Crawl4AI is the #1 trending GitHub repository, actively maintained by a vibrant community. It delivers blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. Open source, flexible, and built for real-time performance, Crawl4AI empowers developers with unmatched speed, precision, and deployment ease.
+### Training
 
-https://github.com/xtekky/gpt4free
-The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models.
 
-https://github.com/agno-agi/agno
-Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+## 🌐 Web & Data
 
-[GPT copilot](https://github.com/Pythagora-io/gpt-pilot)
+### Crawlers
 
+- [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - A powerful multi-platform social media data collection tool.
 
-## image generation
-https://github.com/lllyasviel/Fooocus
-Focus on prompting and generating
+### Headless CMS
 
+- [strapi](https://github.com/strapi/strapi) - The leading open-source headless CMS.
 
+### Dashboards
 
-# FOR PROFILE
+- [twenty](https://github.com/twentyhq/twenty) - A modern alternative to Salesforce.
+- [glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place.
 
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
-😎 A curated list of awesome GitHub Profile which updates in real time
+## 👨‍💻 GitHub & Profile
 
-https://github.com/anuraghazra/github-readme-stats
-⚡ Dynamically generated stats for your github readmes
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A curated list of awesome GitHub Profile READMEs.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your GitHub READMEs.
+- [anuraghazra](https://github.com/anuraghazra/anuraghazra) - Sample GitHub profile page.
 
-https://github.com/anuraghazra/anuraghazra
-sample github profile page
+## 📚 Curated Lists & Awesome Repositories
 
+- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - Free software that works great, and also happens to be open-source Python.
+- [awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
+- [awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+- [awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs.
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
+- [n8n-workflows](https://github.com/Zie619/n8n-workflows) - A collection of n8n workflows.
+- [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - A list of top GitHub repositories in Chinese.
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [awesome-n8n](https://github.com/restyler/awesome-n8n) - Useful n8n resources.
 
-# REFERENCES / Curated lists
+### Logos
 
-https://github.com/mahmoud/awesome-python-applications
-💿 Free software that works great, and also happens to be open-source Python.
+- [logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos.
+- [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
 
-https://github.com/sindresorhus/awesome
-Awesome lists about all kinds of interesting topics
+## 🎓 Learning & Skill Improvement
 
-https://github.com/brillout/awesome-react-components
-Curated List of React Components & Libraries.
+### General
 
-https://github.com/matiassingers/awesome-readme
-A curated list of awesome READMEs
+- [OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - A list of free programming books.
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, and more.
+- [data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - A repo with links to everything about data engineering.
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials.
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge.
+- [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A list of free certifications.
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive coding challenges.
 
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
+### Python
 
-https://github.com/Zie619/n8n-workflows
-all of the workflows of n8n i could find (also from the site itself)
+- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge.
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All algorithms implemented in Python.
 
-[Chinese Top Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
-🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+### AI & Machine Learning
 
-[Free Public APIs](https://github.com/public-apis/public-apis)
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons to get started with Generative AI.
+- [happy-llm](https://github.com/datawhalechina/happy-llm/blob/main/README_en.md) - A tutorial on the principles and practice of large language models from scratch.
 
+### Rust
 
-## LOGOS
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
-https://github.com/gilbarbara/logos
-A huge collection of SVG logos
+### Docker
 
-https://github.com/alrra/browser-logos
-🗂 High resolution web browser logos
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects.
 
+## 🎮 Gaming
 
-# STUDY
+### Steam
 
-[Free Books!](https://github.com/EbookFoundation/free-programming-books)
+- [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 
-https://github.com/josephmisiti/awesome-machine-learning
-A curated list of awesome Machine Learning frameworks, libraries and software.
+### Total War: Attila
 
-https://github.com/rust-unofficial/awesome-rust
-A curated list of Rust code and resources.
+- [rpfm](https://github.com/Frodo45127/rpfm) - A modding tool for Total War: Attila.
 
-https://github.com/veggiemonk/awesome-docker
-🐳 A curated list of Docker resources and projects
+##  miscellaneous
 
-[Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
-
-## Skill improvement
-
-https://github.com/yangshun/tech-interview-handbook
-💯 Curated coding interview preparation materials for busy software engineers
-
-https://github.com/Asabeneh/30-Days-Of-JavaScript
-30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace…
-
-https://github.com/microsoft/generative-ai-for-beginners
-21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-
-https://github.com/datawhalechina/happy-llm/blob/main/README_en.md
-📚 从零开始的大语言模型原理与实践教程
-
-[Free certification](https://github.com/cloudcommunity/Free-Certifications)
-
-[Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
-
-
-### python
-
-https://github.com/Asabeneh/30-Days-Of-Python
-30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos ma…
-
-[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All algorithms implemented in Python - for education
-
-
-# FOR GAMES
-
-## Steam
-
-https://github.com/gibbed/SteamAchievementManager
-A manager for game achievements in Steam.
-
-## Total War: Attila
-https://github.com/Frodo45127/rpfm
+- [OF-DRM](https://github.com/sim0n00ps/OF-DRM) - A tool for... something. (The description is missing in the original file).
