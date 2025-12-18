@@ -11,9 +11,9 @@ You’re probably wondering why I juggle so many stacks.
 It's a personal preference that works for me, different individuals, different path  
 > “Jack of all trades, master of none — oftentimes better than master of one.”
 
-Need mentorship?
-[maybe this is what you need](https://github.com/mtdvio/every-programmer-should-know)
-[stressed? maybe this](https://github.com/dreamingechoes/awesome-mental-health)
+Need mentorship?  
+[maybe this is what you need](https://github.com/mtdvio/every-programmer-should-know)  
+[stressed? maybe this](https://github.com/dreamingechoes/awesome-mental-health)  
 [need inspiration or where to start? check these out](https://github.com/boazcstrike?tab=stars)
 
 # 💻 Tech Stack:
