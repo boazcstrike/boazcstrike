@@ -1,15 +1,17 @@
-# GitHub Repositories
+# Self-Curated GitHub Repositories
+
+## ⭐⭐⭐⭐⭐ Priority Lane
+
+- [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file) - A curated collection of AI agent use cases across various industries.
+- [strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing.
+- [Warp Docs](https://docs.warp.dev/) - Official Warp documentation (Agentic Development Environment, Warp AI, agents, Warp Drive).
+
+# 🛠️ Development
 
 ## ⭐ Dev Tools
 
 - [it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
-## ⭐ Priority Lane
-
-- [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file) - A curated collection of AI agent use cases across various industries.
-- [strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing.
-
-## 🛠️ Developer Tools
 
 ### General
 
@@ -21,6 +23,8 @@
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - A privacy-focused, local-first, open-source alternative for Notion & Miro.
 - [cal.com](https://github.com/calcom/cal.com) - The open-source Calendly successor.
+- [ConvertX](https://github.com/C4illin/ConvertX)
+- [public-apis](https://github.com/public-apis/public-apis)
 
 ### Mini Tools
 
@@ -48,7 +52,6 @@
 - [next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [scira](https://github.com/zaidmukaddam/scira) - A minimalistic AI-powered search engine.
 - [label-studio](https://github.com/HumanSignal/label-studio) - An open source data labeling tool.
-- [browser-use](https://github.com/browser-use/browser-use) - The easiest way to connect your AI agents with the browser.
 - [magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent.
 - [inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email.
 - [airi](https://github.com/moeru-ai/airi) - Self-hosted Grok Companion.
@@ -61,9 +64,16 @@
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Integrates AI capabilities with draw.io diagrams.
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI.
 - [opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [dify](https://github.com/langgenius/dify)
+- [sim](https://github.com/simstudioai/sim)
+- [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
+- [claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+- [quorum-cli](https://github.com/Detrol/quorum-cli)
+https://github.com/datawhalechina/hello-agents/blob/main/README_EN.md
 
 ### Research
 
+- [Weaszel](https://github.com/smammadov1994/Weaszel)
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack.
 - [Automated-AI-Web-Researcher-Ollama (unix)](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - Automated AI Web Researcher using Ollama (Unix).
 - [Automated-AI-Web-Researcher-Ollama (win)](https://github.com/hafeezhmha/Automated-AI-Web-Researcher-Ollama) - Automated AI Web Researcher using Ollama (Windows).
