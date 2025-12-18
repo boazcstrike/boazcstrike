@@ -50,4 +50,4 @@ Need mentorship?
 
 ### Milestone Targets
 
-![Backend Dev 2024 Timeline](images/backend_dev_2024_timeline.jpeg)
+![Backend Dev 2024 Timeline](./backend_dev_2024_timeline.jpeg)
