@@ -72,8 +72,8 @@
 https://github.com/datawhalechina/hello-agents/blob/main/README_EN.md
 
 ### Research
-
-- [Weaszel](https://github.com/smammadov1994/Weaszel)
+- [Weaszel](- [Weaszel](https://github.com/smammadov1994/Weaszel)
+) - Weaszel lives in your terminal and surfs the web for you. From research to shopping, it handles the boring stuff so you can relax.
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack.
 - [Automated-AI-Web-Researcher-Ollama (unix)](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - Automated AI Web Researcher using Ollama (Unix).
 - [Automated-AI-Web-Researcher-Ollama (win)](https://github.com/hafeezhmha/Automated-AI-Web-Researcher-Ollama) - Automated AI Web Researcher using Ollama (Windows).
