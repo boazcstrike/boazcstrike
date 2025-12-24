@@ -41,6 +41,9 @@ Need mentorship?
 - [GitHub Repos](github-repos.md)
 - [Dev Notes](dev.md)
 - [Books to Read](books.md)
+- 
+### Quick Links
+- [(raw)prompt-optimizer-instructions](https://raw.githubusercontent.com/boazcstrike/opencode/refs/heads/main/command/prompt-engineering/prompt-optimizer.md)
 
 ## Useful Tools
 
