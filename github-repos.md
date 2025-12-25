@@ -12,6 +12,10 @@
 
 - [it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
+## Dashboards
+
+- [next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+
 
 ### General
 
@@ -23,19 +27,15 @@
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - A privacy-focused, local-first, open-source alternative for Notion & Miro.
 - [cal.com](https://github.com/calcom/cal.com) - The open-source Calendly successor.
-- [ConvertX](https://github.com/C4illin/ConvertX)
+- [ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [public-apis](https://github.com/public-apis/public-apis)
+- [plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
 ### Mini Tools
 
 - [ninja](https://github.com/ninja-build/ninja) - A small build system with a focus on speed.
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [ExifGlass](https://github.com/d2phap/ExifGlass) - EXIF metadata viewing tool.
-
-### PDF
-
-- [pdfid](https://github.com/Rafiot/pdfid) - A tool for scanning PDF files for malicious content.
-- [qpdf](https://github.com/qpdf/qpdf) - A content-preserving PDF document transformer.
 
 ### Code Checkers
 
@@ -49,7 +49,8 @@
 
 ### Automation & Agents
 
-- [next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [opencode](https://github.com/sst/opencode) - The open source coding agent.
+
 - [scira](https://github.com/zaidmukaddam/scira) - A minimalistic AI-powered search engine.
 - [label-studio](https://github.com/HumanSignal/label-studio) - An open source data labeling tool.
 - [magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent.
@@ -60,40 +61,33 @@
 - [agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems.
 - [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - GPT copilot.
 - [parlant](https://github.com/emcie-co/parlant) - LLM agents built for control.
-- [Archon](https://github.com/coleam00/Archon) - The knowledge and task management backbone for AI coding assistants.
 - [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Integrates AI capabilities with draw.io diagrams.
-- [VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI.
-- [opencode](https://github.com/sst/opencode) - The open source coding agent.
-- [dify](https://github.com/langgenius/dify)
+- [dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [sim](https://github.com/simstudioai/sim)
+- [quorum-cli](https://github.com/Detrol/quorum-cli)
+- [hello-agents](https://github.com/datawhalechina/hello-agents/blob/main/README_EN.md)
+- [Archon](https://github.com/coleam00/Archon) - The knowledge and task management backbone for AI coding assistants.
+- [LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device
+- [exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
+- 
+#### Claude
 - [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
 - [claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
-- [quorum-cli](https://github.com/Detrol/quorum-cli)
-https://github.com/datawhalechina/hello-agents/blob/main/README_EN.md
+- [claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 
 ### Research
-- [Weaszel](- [Weaszel](https://github.com/smammadov1994/Weaszel)
+- [Weaszel](https://github.com/smammadov1994/Weaszel)
 ) - Weaszel lives in your terminal and surfs the web for you. From research to shopping, it handles the boring stuff so you can relax.
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack.
-- [Automated-AI-Web-Researcher-Ollama (unix)](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - Automated AI Web Researcher using Ollama (Unix).
-- [Automated-AI-Web-Researcher-Ollama (win)](https://github.com/hafeezhmha/Automated-AI-Web-Researcher-Ollama) - Automated AI Web Researcher using Ollama (Windows).
-- [Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) - Fully-Automated Personal AI Assistant.
-- [deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant.
-- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent for deep research.
-- [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - End-to-end autonomous research workflow.
-- [Autonomous-Agents](https://github.com/tmgthb/Autonomous-Agents) - Research papers on Autonomous Agents (LLMs).
-
-### Generative AI
-
-- [LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video.
-- [Wan2.2](https://github.com/Wan-Video/Wan2.2) - Open and Advanced Large-Scale Video Generative Models.
-- [Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating.
-- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps.
-- [open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM.
 
 ### Training
-
 - [ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models.
+- [bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
+
+### Generative AI
+- [VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI.
 
 ## 🌐 Web & Data
 
