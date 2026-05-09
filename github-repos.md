@@ -44,6 +44,7 @@
 
 - [gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks.
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - All-in-one hacking tool for hackers.
+- [maigret](https://github.com/soxoj/maigret) - OSINT username checker — collects a user's account info from 3000+ sites by username.
 
 ## 🤖 AI
 
@@ -83,6 +84,7 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Matt Pocock's Claude Code skills collection.
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase Claude Code skills for browser automation.
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Free Claude Code setup.
+- [jcode](https://github.com/1jehuang/jcode) - Claude Code companion tooling.
 
 ### Research
 - [Weaszel](https://github.com/smammadov1994/Weaszel) - Weaszel lives in your terminal and surfs the web for you. From research to shopping, it handles the boring stuff so you can relax.
