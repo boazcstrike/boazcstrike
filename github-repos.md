@@ -3,7 +3,6 @@
 ## ⭐⭐⭐⭐⭐ Priority Lane
 
 - [strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing.
-- [Warp Docs](https://docs.warp.dev/) - Official Warp documentation (Agentic Development Environment, Warp AI, agents, Warp Drive).
 
 # 🛠️ Development
 
@@ -44,6 +43,7 @@
 ### Security
 
 - [gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks.
+- [hackingtool](https://github.com/Z4nzu/hackingtool) - All-in-one hacking tool for hackers.
 
 ## 🤖 AI
 
@@ -72,10 +72,17 @@
 - [Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 - [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file) - A curated collection of AI agent use cases across various industries.
+- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - MCP server giving coding agents control over a Chrome browser via DevTools.
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) - Nous Research agent framework.
+- [multica](https://github.com/multica-ai/multica) - Multi-agent AI platform.
 
 #### Claude
 - [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
 - [claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+- [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - Karpathy-inspired skills for Claude Code.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Matt Pocock's Claude Code skills collection.
+- [browserbase/skills](https://github.com/browserbase/skills) - Browserbase Claude Code skills for browser automation.
+- [free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Free Claude Code setup.
 
 ### Research
 - [Weaszel](https://github.com/smammadov1994/Weaszel) - Weaszel lives in your terminal and surfs the web for you. From research to shopping, it handles the boring stuff so you can relax.
@@ -84,6 +91,7 @@
 ### Training
 - [ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models.
 - [bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
+- [Kronos](https://github.com/shiyu-coder/Kronos) - Foundation model for financial K-line (candlestick) data.
 
 ### Generative AI
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI.
