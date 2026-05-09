@@ -2,7 +2,6 @@
 
 ## ⭐⭐⭐⭐⭐ Priority Lane
 
-- [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file) - A curated collection of AI agent use cases across various industries.
 - [strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing.
 - [Warp Docs](https://docs.warp.dev/) - Official Warp documentation (Agentic Development Environment, Warp AI, agents, Warp Drive).
 
@@ -11,6 +10,7 @@
 ## ⭐ Dev Tools
 
 - [it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [starship](https://github.com/starship/starship) - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 ## Dashboards
 
@@ -71,15 +71,14 @@
 - [exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
-- 
+- [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file) - A curated collection of AI agent use cases across various industries.
+
 #### Claude
 - [claude-quickstarts](https://github.com/anthropics/claude-quickstarts)
 - [claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
-- [claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 
 ### Research
-- [Weaszel](https://github.com/smammadov1994/Weaszel)
-) - Weaszel lives in your terminal and surfs the web for you. From research to shopping, it handles the boring stuff so you can relax.
+- [Weaszel](https://github.com/smammadov1994/Weaszel) - Weaszel lives in your terminal and surfs the web for you. From research to shopping, it handles the boring stuff so you can relax.
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack.
 
 ### Training
