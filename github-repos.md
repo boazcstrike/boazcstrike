@@ -181,3 +181,4 @@
 ##  miscellaneous
 
 - [OF-DRM](https://github.com/sim0n00ps/OF-DRM) - A tool for... something. (The description is missing in the original file).
+- [everything](https://fmhy.net/) about tech
