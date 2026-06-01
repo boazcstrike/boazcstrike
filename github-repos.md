@@ -8,6 +8,7 @@
 
 ## ⭐ Dev Tools
 
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [starship](https://github.com/starship/starship) - ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [kms-pico-latest-april-2026](https://github.com/harrietteehisqu7759383/kms-pico-latest-april-2026) - A secure, educational toolkit for understanding KMS activation, designed for lab environments.
@@ -49,6 +50,7 @@
 ## 🤖 AI
 
 - [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
+- [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 
 ### Terminal Coding Agent
 
