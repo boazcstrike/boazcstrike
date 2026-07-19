@@ -199,10 +199,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
 
-## ⚡ Recent Activity
+## ⚡ Activity Graph
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=boazcstrike&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img alt="Bo's contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=boazcstrike&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+</picture>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
 
