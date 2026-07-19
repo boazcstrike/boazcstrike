@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Bo%20%C2%B7%20boazcstrike&fontColor=ffffff&fontSize=48&desc=Lead%20Engineer%20by%20day%20%C2%B7%20Web%20dev%20by%20night&descSize=18&descAlignY=60" alt="Bo · boazcstrike — Lead Engineer by day, Web dev by night" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header" alt="wave banner" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=640&lines=AI+agent+orchestration;Web+developer+by+night%2C+Lead+Engineer+by+day;Build+what's+needed%2C+not+what's+wanted)](https://git.io/typing-svg)
 
@@ -134,26 +134,19 @@
 
 <!-- Theme-aware: dark viewers get github_dark, light viewers get a light theme -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=boazcstrike&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img alt="Bo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=boazcstrike&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-mu-85.vercel.app/api?username=boazcstrike&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img alt="Bo's GitHub stats" src="https://github-readme-stats-five-mu-85.vercel.app/api?username=boazcstrike&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="165" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=boazcstrike&theme=github_dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" />
-  <img alt="Bo's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boazcstrike&theme=default&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" height="165" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=boazcstrike&theme=github_dark&hide_border=true" />
-  <img alt="Bo's contribution streak" src="https://nirzak-streak-stats.vercel.app/?user=boazcstrike&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-mu-85.vercel.app/api/top-langs/?username=boazcstrike&theme=github_dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" />
+  <img alt="Bo's top languages" src="https://github-readme-stats-five-mu-85.vercel.app/api/top-langs/?username=boazcstrike&theme=default&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" height="165" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=boazcstrike&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-  <img alt="Bo's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=boazcstrike&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=boazcstrike&theme=github_dark&hide_border=true" />
+  <img alt="Bo's contribution streak" src="https://streak-stats.demolab.com/?user=boazcstrike&theme=default&hide_border=true" />
 </picture>
 
 </div>
