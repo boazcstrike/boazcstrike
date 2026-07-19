@@ -3,3 +3,14 @@ claude.md
 warp.md
 gemini.md
 .*
+!.github/
+!.gitignore
+
+# local media dumps — profile uses remote widgets only
+/*.jpeg
+/*.jpg
+/*.gif
+/*.png
+
+# local redesign drafts (not for public profile)
+/redesign/
