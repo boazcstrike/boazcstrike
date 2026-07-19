@@ -134,39 +134,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/boazcstrike/opencode">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-mu-85.vercel.app/api/pin/?username=boazcstrike&repo=opencode&theme=github_dark&hide_border=true" />
-    <img alt="opencode — personal opencode config" src="https://github-readme-stats-five-mu-85.vercel.app/api/pin/?username=boazcstrike&repo=opencode&theme=default&hide_border=true" />
-  </picture>
-</a>
-<a href="https://github.com/boazcstrike/ai-skills">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-mu-85.vercel.app/api/pin/?username=boazcstrike&repo=ai-skills&theme=github_dark&hide_border=true" />
-    <img alt="ai-skills — source of truth for AI agent skills" src="https://github-readme-stats-five-mu-85.vercel.app/api/pin/?username=boazcstrike&repo=ai-skills&theme=default&hide_border=true" />
-  </picture>
-</a>
-<a href="https://github.com/boazcstrike/silayan_laundry">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-mu-85.vercel.app/api/pin/?username=boazcstrike&repo=silayan_laundry&theme=github_dark&hide_border=true" />
-    <img alt="silayan_laundry — laundry automation app" src="https://github-readme-stats-five-mu-85.vercel.app/api/pin/?username=boazcstrike&repo=silayan_laundry&theme=default&hide_border=true" />
-  </picture>
-</a>
-<a href="https://github.com/boazcstrike/lys-lf.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-mu-85.vercel.app/api/pin/?username=boazcstrike&repo=lys-lf.com&theme=github_dark&hide_border=true" />
-    <img alt="lys-lf.com — law firm website" src="https://github-readme-stats-five-mu-85.vercel.app/api/pin/?username=boazcstrike&repo=lys-lf.com&theme=default&hide_border=true" />
-  </picture>
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
-
 ## 📊 Stats
 
 <div align="center">
