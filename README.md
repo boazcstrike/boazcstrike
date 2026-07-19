@@ -19,7 +19,7 @@ Need mentorship?
 
 # 📊 GitHub Stats
 (there's two of em just in case one of them doesn't work)  
-[![boazcstrike's GitHub stats](https://github-readme-stats-boazcstrike.vercel.app/api?username=boazcstrike&count_private=true&show_icons=true&theme=dark&include_all_commits)](https://github.com/boazcstrike/github-readme-stats)
+[![boazcstrike's GitHub stats](https://github-readme-stats-five-mu-85.vercel.app/api?username=boazcstrike&count_private=true&show_icons=true&theme=dark&include_all_commits)](https://github.com/boazcstrike/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=boazcstrike&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=boazcstrike&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=boazcstrike&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
