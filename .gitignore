@@ -14,3 +14,6 @@ gemini.md
 
 # local redesign drafts (not for public profile)
 /redesign/
+
+# graphify generated knowledge graph (local, regenerable)
+/graphify-out/

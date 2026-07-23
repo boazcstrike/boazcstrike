@@ -73,6 +73,9 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Matt Pocock's Claude Code skills collection.
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase Claude Code skills for browser automation.
 - [Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, its docs, SQL schemas, configs, and PDFs into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+- [headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer for JSON, same answers. Library, proxy, and MCP server.
 
 ### Automation & Agents
 
