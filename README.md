@@ -3,11 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
 
 ## 👋 About
-
-- 🧠 &nbsp;**AI agent orchestration** & **Prompt programming**
-- 🌐 &nbsp;Developer by night, **Lead Engineer** by day
-- 🔭 &nbsp;Focused on a better future
-- 💾 &nbsp;Building on great tech since 2014
+🧠 &nbsp;**AI agent orchestration** & **Prompt programming**
+🌐 &nbsp;Developer by night, **Lead Engineer** by day
+🔭 &nbsp;Focused on a better future
+💾 &nbsp;Building on great tech since 2014
 
 > _"Jack of all trades, master of none — oftentimes better than master of one."_
 > Build what's needed, not what's wanted; different individuals, different paths.
