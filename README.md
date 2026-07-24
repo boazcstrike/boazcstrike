@@ -1,36 +1,22 @@
 <div align="center">
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boaz-sze-44b00291/)
-&nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/boazcstrike)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/boaz.sze-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boaz.sze@gmail.com)
-&nbsp;
-[![MindYou](https://img.shields.io/badge/boaz@mindyou-1f6feb?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:boaz@mindyou.com.ph)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=boazcstrike&style=for-the-badge&color=1f6feb&label=VIEWS)](https://github.com/boazcstrike)
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
 
 ## 👋 About
 
-- 🧠 &nbsp;Expanding on the AI landscape — busy with **AI agent orchestration**
-- 🌐 &nbsp;Web developer by night, **Lead Engineer** by day
-- 🔭 &nbsp;Looking for beautiful startup ideas for a better future
-- 💾 &nbsp;Building on top of great tech since 2014
+- 🧠 &nbsp;**AI agent orchestration** & **Prompt programming**
+- 🌐 &nbsp;Developer by night, **Lead Engineer** by day
+- 🔭 &nbsp;Focused on a better future
+- 💾 &nbsp;Building on great tech since 2014
 
 > _"Jack of all trades, master of none — oftentimes better than master of one."_
 > Build what's needed, not what's wanted; different individuals, different paths.
 
 **Need a nudge?** &nbsp;
-[Every programmer should know](https://github.com/mtdvio/every-programmer-should-know) &nbsp;·&nbsp;
-[Awesome mental health](https://github.com/dreamingechoes/awesome-mental-health) &nbsp;·&nbsp;
-[My starred inspiration](https://github.com/boazcstrike?tab=stars) &nbsp;·&nbsp;
-[Curated repos](./github-repos.md)
+Lost? [Every programmer should know](https://github.com/mtdvio/every-programmer-should-know) </br>
+Stressed? [Awesome mental health](https://github.com/dreamingechoes/awesome-mental-health) </br>
+Need inspiration? [repos](https://github.com/boazcstrike?tab=stars) </br>
+Cloning: [Curated repos](./github-repos.md)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
 
