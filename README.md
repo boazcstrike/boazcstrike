@@ -15,7 +15,7 @@
 Lost? [Every programmer should know](https://github.com/mtdvio/every-programmer-should-know) </br>
 Stressed? [Awesome mental health](https://github.com/dreamingechoes/awesome-mental-health) </br>
 Need inspiration? [repos](https://github.com/boazcstrike?tab=stars) </br>
-Cloning: [Curated repos](./github-repos.md)
+Cloning: [Curated repos](./github-repos.md)</br>
 Leaderboards: [ai benches](https://github.com/panilya/awesome-ai-benchmarks)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
