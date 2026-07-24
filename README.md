@@ -179,6 +179,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
 
+## 🌟 Great GitHub Profiles
+
+- 🧑‍🚀 &nbsp;[ruvnet](https://github.com/ruvnet) — prolific AI agent & tooling builder worth following
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
+
 ## 🔗 Notes & Tools
 
 - 📂 &nbsp;[GitHub Repos](./github-repos.md)
