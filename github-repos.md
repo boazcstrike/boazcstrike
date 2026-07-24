@@ -12,7 +12,8 @@
 
 | Repo | Description |
 | --- | --- |
-| [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. |
+| [buzz](https://github.com/block/buzz) | Block's Buzz project. |
+| [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, [...]
 | [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. |
 | [starship](https://github.com/starship/starship) | ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
 | [kms-pico-latest-april-2026](https://github.com/harrietteehisqu7759383/kms-pico-latest-april-2026) | A secure, educational toolkit for understanding KMS activation, designed for lab environments. |
@@ -45,7 +46,7 @@
 | --- | --- |
 | [AFFiNE](https://github.com/toeverything/AFFiNE) | A privacy-focused, local-first, open-source alternative for Notion & Miro. |
 | [cal.com](https://github.com/calcom/cal.com) | The open-source Calendly successor. |
-| [plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. |
+| [plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the plan[...]
 
 ### Mini Tools
 
@@ -70,17 +71,17 @@
 | [gitleaks](https://github.com/gitleaks/gitleaks) | Find secrets with Gitleaks. |
 | [hackingtool](https://github.com/Z4nzu/hackingtool) | All-in-one hacking tool for hackers. |
 | [maigret](https://github.com/soxoj/maigret) | OSINT username checker — collects a user's account info from 3000+ sites by username. |
-| [claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) | AI-powered bug bounty hunting from your terminal — recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code. |
+| [claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) | AI-powered bug bounty hunting from your terminal — recon, 20 vuln classes, autonomous hunting, and report generation. All insi[...]
 | [IXEAN_ESS](https://github.com/thejopinator/IXEAN_ESS) | Ixean embedded systems security. |
 
 ## 🤖 AI
 
 | Repo | Description |
 | --- | --- |
-| [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 |
+| [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex[...]
 | [odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | Self-hosted AI workspace. |
 | [mempalace](https://github.com/MemPalace/mempalace) | Best-benchmarked open-source AI memory system. And it's free. |
-| [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats — AI-based bilingual PDF translation (Google/DeepL/Ollama/OpenAI), CLI/GUI/MCP/Docker/Zotero. |
+| [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats — AI-based bilingual PDF translation (Google/De[...]
 | [BabelDOC](https://github.com/funstory-ai/BabelDOC) | Yet Another Document Translator. |
 
 ### Terminal Coding Agent
@@ -101,31 +102,31 @@
 | Repo | Description |
 | --- | --- |
 | [next-skills](https://github.com/vercel-labs/next-skills) | Agent skills for common Next.js workflows. |
-| [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) | 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对 |
+| [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) | 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss[...]
 | [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) | 中文小黑怪诞正文配图生成 Skill \| 16:9 白底手绘 \| 少量红橙蓝批注 \| Codex Skill |
-| [vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) | Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds |
-| [adhd](https://github.com/UditAkhourii/adhd) | ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work. |
+| [vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) | Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — sel[...]
+| [adhd](https://github.com/UditAkhourii/adhd) | ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under dif[...]
 | [dirtyfrag](https://github.com/V4bel/dirtyfrag) |  |
 | [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Karpathy-inspired skills for Claude Code. |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Matt Pocock's Claude Code skills collection. |
 | [browserbase/skills](https://github.com/browserbase/skills) | Browserbase Claude Code skills for browser automation. |
-| [Fabric](https://github.com/danielmiessler/Fabric) | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
-| [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, its docs, SQL schemas, configs, and PDFs into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. |
-| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
-| [headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer for JSON, same answers. Library, proxy, and MCP server. |
-| [awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | The most comprehensive toolkit for Claude Code — 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more. |
+| [Fabric](https://github.com/danielmiessler/Fabric) | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsource[...]
+| [graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, its docs, SQL schemas, configs, and PDFs into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex[...]
+| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in millis[...]
+| [headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer for JSON, sam[...]
+| [awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | The most comprehensive toolkit for Claude Code — 135 agents, 35 curated skills, 42 commands, 176+ plugins, [...]
 | [Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) | Give AI Mermaid chart rendering capability, supporting both SVG and ASCII output formats. |
 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill providing design intelligence for building professional UI/UX across multiple platforms. |
 | [stop-slop](https://github.com/hardikpandya/stop-slop) | A skill file for removing AI tells from prose. |
-| [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
+| [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, [...]
 | [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more. |
 | [taste-skill](https://github.com/Leonxlnx/taste-skill) | Gives your AI good taste. Stops the AI from generating boring, generic slop. |
-| [ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Curs[...]
 | [getsentry/skills](https://github.com/getsentry/skills) | Agent skills used by the Sentry team for development. |
 | [caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman. |
 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | My Codex skills. |
-| [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
-| [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent context across sessions for every agent — captures what your agent does, compresses it with AI, and injects relevant context into future sessions. Works with Claude Code, Codex, Gemini, Copilot, OpenCode + more. |
+| [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pi[...]
+| [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent context across sessions for every agent — captures what your agent does, compresses it with AI, and injects relevant context int[...]
 
 ### Automation & Agents
 
@@ -153,7 +154,7 @@
 | [multica](https://github.com/multica-ai/multica) | Multi-agent AI platform. |
 | [overstory](https://github.com/jayminwest/overstory) | Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more. |
 | [voltagent](https://github.com/VoltAgent/voltagent) | AI Agent Engineering Platform built on an open-source TypeScript AI agent framework. |
-| [agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) | Agent IDE to manage fleets of coding agents. Plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews. |
+| [agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) | Agent IDE to manage fleets of coding agents. Plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts[...]
 | [Agent-Quest](https://github.com/FulAppiOS/Agent-Quest) | Real-time gamified dashboard for monitoring Claude Code and Codex AI agents in a medieval fantasy setting. |
 
 #### Claude
