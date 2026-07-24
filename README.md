@@ -11,7 +11,7 @@
 > _"Jack of all trades, master of none — oftentimes better than master of one."_
 > Build what's needed, not what's wanted; different individuals, different paths.
 
-**Need a nudge?** &nbsp;
+**Need a nudge?** &nbsp;</br>
 Lost? [Every programmer should know](https://github.com/mtdvio/every-programmer-should-know) </br>
 Stressed? [Awesome mental health](https://github.com/dreamingechoes/awesome-mental-health) </br>
 Need inspiration? [repos](https://github.com/boazcstrike?tab=stars) </br>
