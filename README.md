@@ -8,7 +8,7 @@
 🔭 &nbsp;Focused on a better future</br>
 💾 &nbsp;Building on great tech since 2014</br>
 
-> _"Jack of all trades, master of none — oftentimes better than master of one."_
+> _"Jack of all trades, master of none — oftentimes better than master of one."_ </br>
 > Build what's needed, not what's wanted; different individuals, different paths.
 
 **Need a nudge?** &nbsp;</br>
@@ -163,15 +163,15 @@ Leaderboards: [ai benches](https://github.com/panilya/awesome-ai-benchmarks)
 
 ## 🌟 Great GitHub Profiles
 
-- 🧑‍🚀 &nbsp;[ruvnet](https://github.com/ruvnet) — prolific AI agent & tooling builder worth following
+🧑‍🚀 &nbsp;[ruvnet](https://github.com/ruvnet) — prolific AI agent & tooling builder worth following
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
 
 ## 🔗 Notes & Tools
 
-- 📂 &nbsp;[GitHub Repos](./github-repos.md)
-- 🧠 &nbsp;[Prompt optimizer instructions (raw)](https://raw.githubusercontent.com/boazcstrike/opencode/refs/heads/main/command/prompt-engineering/prompt-optimizer.md)
-- 🧰 &nbsp;[IT-Tools](https://it-tools.tech/) &nbsp;·&nbsp; 🎨 &nbsp;[Coolors](https://coolors.co/)
+📂 &nbsp;[GitHub Repos](./github-repos.md)  
+🧠 &nbsp;[Prompt optimizer instructions (raw)](https://raw.githubusercontent.com/boazcstrike/opencode/refs/heads/main/command/prompt-engineering/prompt-optimizer.md)  
+🧰 &nbsp;[IT-Tools](https://it-tools.tech/) &nbsp;·&nbsp; 🎨 &nbsp;[Coolors](https://coolors.co/)  
 
 <div align="center">
 
