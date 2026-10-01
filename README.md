@@ -118,15 +118,21 @@ Leaderboards: [ai benches](https://github.com/panilya/awesome-ai-benchmarks)
 
 ## 🤖 AI Arsenal
 
-<sub>What I actually pay for and run every day: <b>7 seats across 5 providers</b>.</sub>
+<sub>What I actually pay for and run every day: <b>7 seats across 5 providers</b>, driven through <b>3 harnesses</b>.</sub>
 
-<br/>
+#### Models & subscriptions
 
 <a href="https://claude.ai"><img alt="Claude, 2 subscriptions" src="https://img.shields.io/badge/Claude-%C3%972%20subs-30363d?style=for-the-badge&logo=claude&logoColor=white&labelColor=D97757" /></a>
 <a href="https://cursor.com"><img alt="Cursor, 2 subscriptions" src="https://img.shields.io/badge/Cursor-%C3%972%20subs-30363d?style=for-the-badge&logo=cursor&logoColor=white&labelColor=000000" /></a>
 <a href="https://openai.com/codex"><img alt="Codex, 1 subscription" src="https://img.shields.io/badge/Codex-%C3%971%20sub-30363d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNDYgMi45MDAxQTUuOTg0NyA1Ljk4NDcgMCAwIDAgMTMuMjU5OSAyNGE2LjA1NTcgNi4wNTU3IDAgMCAwIDUuNzcxOC00LjIwNTggNS45ODk0IDUuOTg5NCAwIDAgMCAzLjk5NzctMi45MDAxIDYuMDU1NyA2LjA1NTcgMCAwIDAtLjc0NzUtNy4wNzI5em0tOS4wMjIgMTIuNjA4MWE0LjQ3NTUgNC40NzU1IDAgMCAxLTIuODc2NC0xLjA0MDhsLjE0MTktLjA4MDQgNC43NzgzLTIuNzU4MmEuNzk0OC43OTQ4IDAgMCAwIC4zOTI3LS42ODEzdi02LjczNjlsMi4wMiAxLjE2ODZhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODI2YTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0NSA0LjQ5NDR6bS05LjY2MDctNC4xMjU0YTQuNDcwOCA0LjQ3MDggMCAwIDEtLjUzNDYtMy4wMTM3bC4xNDIuMDg1MiA0Ljc4MyAyLjc1ODJhLjc3MTIuNzcxMiAwIDAgMCAuNzgwNiAwbDUuODQyOC0zLjM2ODV2Mi4zMzI0YS4wODA0LjA4MDQgMCAwIDEtLjAzMzIuMDYxNUw5Ljc0IDE5Ljk1MDJhNC40OTkyIDQuNDk5MiAwIDAgMS02LjE0MDgtMS42NDY0ek0yLjM0MDggNy44OTU2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1NS0xLjk3MjhWMTEuNmEuNzY2NC43NjY0IDAgMCAwIC4zODc5LjY3NjVsNS44MTQ0IDMuMzU0My0yLjAyMDEgMS4xNjg1YS4wNzU3LjA3NTcgMCAwIDEtLjA3MSAwbC00LjgzMDMtMi43ODY1QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQwOCA3Ljg3MnptMTYuNTk2MyAzLjg1NThMMTMuMTAzOCA4LjM2NCAxNS4xMTkyIDcuMmEuMDc1Ny4wNzU3IDAgMCAxIC4wNzEgMGw0LjgzMDMgMi43OTEzYTQuNDk0NCA0LjQ5NDQgMCAwIDEtLjY3NjUgOC4xMDQydi01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMTA3LTMuMDIzMWwtLjE0Mi0uMDg1Mi00Ljc3MzUtMi43ODE4YS43NzU5Ljc3NTkgMCAwIDAtLjc4NTQgMEw5LjQwOSA5LjIyOTdWNi44OTc0YS4wNjYyLjA2NjIgMCAwIDEgLjAyODQtLjA2MTVsNC44MzAzLTIuNzg2NmE0LjQ5OTIgNC40OTkyIDAgMCAxIDYuNjgwMiA0LjY2ek04LjMwNjUgMTIuODYzbC0yLjAyLTEuMTYzOGEuMDgwNC4wODA0IDAgMCAxLS4wMzgtLjA1NjdWNi4wNzQyYTQuNDk5MiA0LjQ5OTIgMCAwIDEgNy4zNzU3LTMuNDUzN2wtLjE0Mi4wODA1TDguNzA0IDUuNDU5YS43OTQ4Ljc5NDggMCAwIDAtLjM5MjcuNjgxM3ptMS4wOTc2LTIuMzY1NGwyLjYwMi0xLjQ5OTggMi42MDY5IDEuNDk5OHYyLjk5OTRsLTIuNTk3NCAxLjQ5OTctMi42MDY3LTEuNDk5N1oiLz48L3N2Zz4=&labelColor=10A37F" /></a>
 <a href="https://kiro.dev"><img alt="Kiro, 1 subscription" src="https://img.shields.io/badge/Kiro-%C3%971%20sub-30363d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIyNjIgMTkwIDY3NiA4MjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTM5OC41NTQgODE4LjkxNEMzMTYuMzE1IDEwMDEuMDMgNDkxLjQ3NyAxMDQ2Ljc0IDYyMC42NzIgOTQwLjE1NkM2NTguNjg3IDEwNTkuNjYgODAxLjA1MiA5NzAuNDczIDg1Mi4yMzQgODc3Ljc5NUM5NjQuNzg3IDY3My41NjcgOTE5LjMxOCA0NjUuMzU3IDkwNy42NCA0MjIuMzc0QzgyNy42MzcgMTI5LjQ0MyA0MjcuNjIzIDEyOC45NDYgMzU4LjggNDIzLjg2NUMzNDIuNjUxIDQ3NS41NDQgMzQyLjQwMiA1MzQuMTggMzMzLjQ1OCA1OTUuMDUxQzMyOC45ODYgNjI1Ljg2IDMyNS41MDcgNjQ1LjQ4OCAzMTMuODMgNjc3Ljc4NUMzMDYuODczIDY5Ni40MjQgMjk3LjY4IDcxMi44MTkgMjgyLjc3MyA3NDAuNjQ1QzI1OS45MTUgNzgzLjg4MSAyNjkuNjA0IDg2Ny4xMTMgMzg3Ljg3IDgyMy44ODNMMzk5LjA1MSA4MTguOTE0SDM5OC41NTRaTTYzNi4xMjMgNTQ5LjM1M0M2MDMuMzI4IDU0OS4zNTMgNTk4LjM1OSA1MTAuMDk3IDU5OC4zNTkgNDg2Ljc0MkM1OTguMzU5IDQ2NS42MjMgNjAyLjA4NiA0NDguOTc3IDYwOS4yOTMgNDM4LjI5M0M2MTUuNTA0IDQyOC44NTIgNjI0LjY5NyA0MjQuMTMxIDYzNi4xMjMgNDI0LjEzMUM2NDcuNTU1IDQyNC4xMzEgNjU3LjQ5MiA0MjguODUyIDY2NC40NDcgNDM4LjU0MUM2NzIuMzk4IDQ0OS40NzQgNjc2LjYyMyA0NjYuMTIgNjc2LjYyMyA0ODYuNzQyQzY3Ni42MjMgNTI1Ljk5OCA2NjEuNDcxIDU0OS4zNTMgNjM2LjM3NSA1NDkuMzUzSDYzNi4xMjNaTTc3MS4yNCA1NDkuMzUzQzczOC40NDUgNTQ5LjM1MyA3MzMuNDc3IDUxMC4wOTcgNzMzLjQ3NyA0ODYuNzQyQzczMy40NzcgNDY1LjYyMyA3MzcuMjAzIDQ0OC45NzcgNzQ0LjQxIDQzOC4yOTNDNzUwLjYyMSA0MjguODUyIDc1OS44MTQgNDI0LjEzMSA3NzEuMjQgNDI0LjEzMUM3ODIuNjcyIDQyNC4xMzEgNzkyLjYwOSA0MjguODUyIDc5OS41NjQgNDM4LjU0MUM4MDcuNTE2IDQ0OS40NzQgODExLjc0IDQ2Ni4xMiA4MTEuNzQgNDg2Ljc0MkM4MTEuNzQgNTI1Ljk5OCA3OTYuNTg4IDU0OS4zNTMgNzcxLjQ5MiA1NDkuMzUzSDc3MS4yNFoiLz48L3N2Zz4K&labelColor=9046FF" /></a>
 <a href="https://platform.deepseek.com"><img alt="DeepSeek, API credits" src="https://img.shields.io/badge/DeepSeek-API%20credits-30363d?style=for-the-badge&logo=deepseek&logoColor=white&labelColor=4D6BFE" /></a>
+
+#### Harnesses
+
+<a href="https://pi.dev"><img alt="pi coding agent" src="https://img.shields.io/badge/pi-coding%20agent-30363d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NjAiIGhlaWdodD0iNTYwIiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgNTYwIDU2MCI%2BICAgIDxwYXRoIGZpbGw9IndoaXRlIiBkPSJNNDIwIDI4MEgyODBWMTQwSDBWMEg0MjBWMjgwWiIvPiAgPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01NjAgNTYwSDQyMFYyODBINTYwVjU2MFoiLz4gIDxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTQwIDU2MEgwVjE0MEgxNDBWMjgwSDI4MFY0MjBIMTQwVjU2MFoiLz48L3N2Zz4=&labelColor=111111" /></a>
+<a href="https://herdr.dev"><img alt="Herdr agent runtime" src="https://img.shields.io/badge/Herdr-agent%20runtime-30363d?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB%2BoKARQUJICF1agAAALjSURBVGje7Vm/axRBFP5GBb1ABC0MnKCNrSjBaySFCVFQJFjpHxAPUogIsbAwRC0EiWIIiE0IQkBFC0mRQjTRwqvESlsRU3j%2BKLQKIsKz2N3ZnZ0f%2B2Yz6yrcN8Xt7nvz3jdv3ns3tycI9WJTzf57BLwJbMNbUDzOa9JFKcuOIadF4o97pOKkInXjtc0q330ew2znCe6XJ7BfMzYuZU2m%2BwiabcHqA3klIa%2Be4JRnFgn1lpOEifshiHgkmPN2ry%2BmMPw3TYHz2nvnRvC2gLuaEhvh2wcO4WWmsoXn7BSnJRP2IlYxbFpB6SgIfgSOgkCKe%2BCLgUqEfTJVBT47rF6TC3COaWsiTWrJOGW00HWnosv5WEEuX2L20FY5Ahx8YFI4bpx9xU5gqXRzvaDIThQsx0LAH9G8ZYOk47RqbEShD4lJlZBZppbhruDuU8cLZnGWwLFMdYfHbBGBMTzVAiQwEozAN2uECAQ6oCXIzIa/89QUHXdXgbvAHnk4msg9vWP18D6tAlvqCSVUbqS6e/DR8Fyf30Q3ygG7aTIYEsq4YaC6Ju9eyauLBuvdyEcR2nIjbhHROUvbKmrG1i0TxA/tGwziKwaMUYq01tEwHlLIbneL0/nj9OSC6xhE1KrmsRnAdgzgN44AAJ7FOg0AlKNwGB2XCxcBWwqe1TS/a%2BtdwUPsxGX0F9gm%2BxasYa8zhFl8wm6WXoId%2BJFYth/JfsafywyzzfhziuV%2BOnUPZxW0qN%2Bz23G65qSqu/FGG2GWSSEtzKthCVBBzRMRvcvonEmnhUNqvk%2BTzShtaS4VFDciH/B%2BKSkew74jKl7MaF4n9EsqwrpVNgGSPbMyAkADBEIHLfnkIJ6DQLhrUg%2BbAyXw370n7BHoEaiAwNa6CfySR%2Bw2Xvx9Au63ZH1YwmidBBJU2C15SSjwoN4IAMAIVuqLAACsYrHeCACV5IJfI2rXHYEKYvAPtOIeAT/cDk3A/z%2BjwGn4B0mk55VBSqKEAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI2LTEwLTAxVDIwOjIwOjE1KzAwOjAwkvLE8AAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNi0xMC0wMVQyMDoyMDoxNSswMDowMOOvfEwAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjYtMTAtMDFUMjA6MjA6MzYrMDA6MDDHd0BzAAAAAElFTkSuQmCC&labelColor=52606D" /></a>
+<a href="https://x.ai/grok"><img alt="Grok" src="https://img.shields.io/badge/Grok-bot-30363d?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTkuMjcgMTUuMjlsNy45NzgtNS44OTdjLjM5MS0uMjkuOTUtLjE3NyAxLjEzNy4yNzIuOTggMi4zNjkuNTQyIDUuMjE1LTEuNDEgNy4xNjktMS45NTEgMS45NTQtNC42NjcgMi4zODItNy4xNDkgMS40MDZsLTIuNzExIDEuMjU3YzMuODg5IDIuNjYxIDguNjExIDIuMDAzIDExLjU2Mi0uOTUzIDIuMzQxLTIuMzQ0IDMuMDY2LTUuNTM5IDIuMzg4LTguNDJsLjAwNi4wMDdjLS45ODMtNC4yMzIuMjQyLTUuOTI0IDIuNzUtOS4zODMuMDYtLjA4Mi4xMi0uMTY0LjE3OS0uMjQ4bC0zLjMwMSAzLjMwNXYtLjAxTDkuMjY3IDE1LjI5Mk03LjYyMyAxNi43MjNjLTIuNzkyLTIuNjctMi4zMS02LjgwMS4wNzEtOS4xODQgMS43NjEtMS43NjMgNC42NDctMi40ODMgNy4xNjYtMS40MjVsMi43MDUtMS4yNWE3LjgwOCA3LjgwOCAwIDAwLTEuODI5LTFBOC45NzUgOC45NzUgMCAwMDUuOTg0IDUuODNjLTIuNTMzIDIuNTM2LTMuMzMgNi40MzYtMS45NjIgOS43NjQgMS4wMjIgMi40ODctLjY1MyA0LjI0Ni0yLjM0IDYuMDIyLS41OTkuNjMtMS4xOTkgMS4yNTktMS42ODIgMS45MjVsNy42Mi02LjgxNSI%2BPC9wYXRoPjwvc3ZnPg==&labelColor=000000" /></a>
 
 <details>
 <summary><b>🧭 How I route the work</b></summary>
@@ -137,8 +143,9 @@ Leaderboards: [ai benches](https://github.com/panilya/awesome-ai-benchmarks)
 | :-- | :-- |
 | Planning, design, code review | Claude Opus |
 | Writing code | Claude Sonnet |
-| Hard debugging & research fallback | Codex |
+| Hard debugging & research fallback | Codex, through pi |
 | Tests, builds, mechanical edits | Cursor agent |
+| Parallel agents & background jobs | Herdr panes |
 
 </details>
 
@@ -176,19 +183,6 @@ Leaderboards: [ai benches](https://github.com/panilya/awesome-ai-benchmarks)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
 
-## ⚡ Activity Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=boazcstrike&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-  <img alt="Bo's contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=boazcstrike&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3&section=header" alt="divider" width="100%" />
-
 ## 🌟 Great GitHub Profiles
 
 🧑‍🚀 &nbsp;[ruvnet](https://github.com/ruvnet) — prolific AI agent & tooling builder worth following
@@ -198,7 +192,6 @@ Leaderboards: [ai benches](https://github.com/panilya/awesome-ai-benchmarks)
 ## 🔗 Notes & Tools
 
 📂 &nbsp;[GitHub Repos](./github-repos.md)  
-🧠 &nbsp;[Prompt optimizer instructions (raw)](https://raw.githubusercontent.com/boazcstrike/opencode/refs/heads/main/command/prompt-engineering/prompt-optimizer.md)  
 🧰 &nbsp;[IT-Tools](https://it-tools.tech/) &nbsp;·&nbsp; 🎨 &nbsp;[Coolors](https://coolors.co/)  
 
 <div align="center">
