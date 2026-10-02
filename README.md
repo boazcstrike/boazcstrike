@@ -139,13 +139,17 @@ Leaderboards: [ai benches](https://github.com/panilya/awesome-ai-benchmarks)
 
 <br/>
 
-| Job | Goes to |
-| :-- | :-- |
-| Planning, design, code review | Claude Opus |
-| Writing code | Claude Sonnet |
-| Hard debugging & research fallback | Codex, through pi |
-| Tests, builds, mechanical edits | Cursor agent |
-| Parallel agents & background jobs | Herdr panes |
+Routing here is a priority list, not a fixed assignment. Each job has a first pick. When that model runs out of limits, the next one in line takes over, so the work never stalls.
+
+| Job | First pick | When limits run out |
+| :-- | :-- | :-- |
+| Planning, design, code review | Claude Opus | Codex, through pi |
+| Debugging & hard problems | Claude Opus | Codex, through pi |
+| Research | Claude Opus | Codex, then Cursor agent |
+| Writing code | Claude Sonnet | Cursor agent |
+| Tests, builds, mechanical edits | Cursor agent | Claude Sonnet |
+
+<sub>All of it runs in Herdr panes, so several agents can work in parallel.</sub>
 
 </details>
 
