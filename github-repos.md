@@ -6,9 +6,7 @@
 | --- | --- |
 | [strix](https://github.com/usestrix/strix) | Open-source AI agents for penetration testing. |
 
-## 🛠️ Development
-
-## ⭐ Dev Tools
+## 🛠️ Dev Tools
 
 | Repo | Description |
 | --- | --- |
@@ -64,8 +62,8 @@
 | [hackingtool](https://github.com/Z4nzu/hackingtool) | All-in-one hacking tool for hackers. |
 | [maigret](https://github.com/soxoj/maigret) | Collect a dossier on a person by username from 6K websites. |
 | [Agentic-Bug-Hunter](https://github.com/awarexone/Agentic-Bug-Hunter) | AI-powered bug bounty hunting toolkit that works with or without a subscription. |
-| [IXEAN_ESS](https://github.com/thejopinator/IXEAN_ESS) | Ixean embedded systems security. |
 | [dirtyfrag](https://github.com/V4bel/dirtyfrag) | Dirty Frag: universal Linux root LPE chaining xfrm-ESP and RxRPC page-cache writes (CVE-2026-43284, CVE-2026-43500). |
+| [robin](https://github.com/apurvsinghgautam/robin) | AI-powered dark web OSINT tool. |
 
 ## 🤖 AI
 
@@ -84,8 +82,7 @@
 | [opencode](https://github.com/anomalyco/opencode) | The open source coding agent. |
 | [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer. |
 | [Archon](https://github.com/coleam00/Archon) | The first open-source harness builder for AI coding — makes AI coding deterministic and repeatable. |
-| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | MCP server giving coding agents control over a Chrome browser via DevTools. |
-| [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Free Claude Code setup. |
+| [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use Claude Code, Codex, OpenCode, and other harnesses for free from your terminal, IDE, or browser. |
 | [jcode](https://github.com/1jehuang/jcode) | High-performance coding agent harness written in Rust. |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development. |
 | [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | OmX — Oh My codeX: your codex is not alone. Add hooks, agent teams, HUDs, and much more. |
@@ -117,6 +114,7 @@
 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | My Codex skills. |
 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's LLM coding observations. |
 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent context across sessions for every agent: captures, compresses, and re-injects what your agent does. |
+| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | MCP server giving coding agents control over a Chrome browser via DevTools. |
 
 ### Automation & Agents
 
@@ -127,7 +125,6 @@
 | [magentic-ui](https://github.com/microsoft/magentic-ui) | MagenticLite — experimental agent that works across the browser and local file system. |
 | [inbox-zero](https://github.com/elie222/inbox-zero) | The world's best AI personal assistant for email. |
 | [airi](https://github.com/moeru-ai/airi) | Self-hosted Grok Companion. |
-| [crawl4ai](https://github.com/unclecode/crawl4ai) | Blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. |
 | [gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository. |
 | [agno](https://github.com/agno-agi/agno) | Build, run, and manage agent platforms. |
 | [parlant](https://github.com/emcie-co/parlant) | Interaction control harness for reliable customer-facing AI agents. |
@@ -135,30 +132,30 @@
 | [dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. |
 | [sim](https://github.com/simstudioai/sim) | Collaborative workspace to build, deploy, and monitor AI agents and workflows. |
 | [quorum-cli](https://github.com/Detrol/quorum-cli) | Multi-agent AI discussion CLI for structured debates between LLMs. |
-| [hello-agents](https://github.com/datawhalechina/hello-agents) | Build AI agents from scratch — principles and practice tutorial (Chinese). |
-| [LEANN](https://github.com/StarTrail-org/LEANN) | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device |
+| [LEANN](https://github.com/StarTrail-org/LEANN) | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 | [exo](https://github.com/exo-explore/exo) | Run frontier AI locally. |
-| [robin](https://github.com/apurvsinghgautam/robin) | AI-Powered Dark Web OSINT Tool |
-| [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | A curated collection of AI agent use cases across various industries. |
 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you. |
 | [multica](https://github.com/multica-ai/multica) | Make humans and AI agents work as one team — open-source and self-hostable. |
 | [voltagent](https://github.com/VoltAgent/voltagent) | AI Agent Engineering Platform built on an open-source TypeScript AI agent framework. |
-| [agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | Run and supervise teams of coding agents from planning to merge, on any harness. |
+| [agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Run and supervise teams of coding agents from planning to merge, on any harness. |
 | [Agent-Quest](https://github.com/FulAppiOS/Agent-Quest) | Real-time gamified dashboard for monitoring Claude Code and Codex AI agents in a medieval fantasy setting. |
 
 #### Claude
+
 | Repo | Description |
 | --- | --- |
 | [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Projects to quickly start building deployable apps with the Claude API. |
 | [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Notebooks and recipes showing effective ways to use Claude. |
 
 ### Research
+
 | Repo | Description |
 | --- | --- |
 | [Weaszel](https://github.com/smammadov1994/Weaszel) | Weaszel lives in your terminal and surfs the web for you. From research to shopping, it handles the boring stuff so you can relax. |
 | [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-sourced Multimodal AI Agent Stack. |
 
 ### Training
+
 | Repo | Description |
 | --- | --- |
 | [ai-toolkit](https://github.com/ostris/ai-toolkit) | The ultimate training toolkit for finetuning diffusion models. |
@@ -167,6 +164,7 @@
 | [nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. |
 
 ### Generative AI
+
 | Repo | Description |
 | --- | --- |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI. |
@@ -181,12 +179,19 @@
 | Repo | Description |
 | --- | --- |
 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | A powerful multi-platform social media data collection tool. |
+| [crawl4ai](https://github.com/unclecode/crawl4ai) | Blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. |
 
 ### Headless CMS
 
 | Repo | Description |
 | --- | --- |
 | [strapi](https://github.com/strapi/strapi) | The leading open-source headless CMS. |
+
+### Data Platforms
+
+| Repo | Description |
+| --- | --- |
+| [OpenBB](https://github.com/openbq-org/OpenBB) | Open data platform for analysts, quants and AI agents. |
 
 ### Dashboards
 
@@ -215,6 +220,7 @@
 | [n8n-workflows](https://github.com/Zie619/n8n-workflows) | A collection of n8n workflows. |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. |
 | [awesome-n8n](https://github.com/restyler/awesome-n8n) | Useful n8n resources. |
+| [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | A curated collection of AI agent use cases across various industries. |
 
 ### Logos
 
@@ -229,13 +235,10 @@
 
 | Repo | Description |
 | --- | --- |
-| [OpenBB](https://github.com/openbq-org/OpenBB) | Open data platform for analysts, quants and AI agents. |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | A list of free programming books. |
-| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, and more. |
 | [data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | A repo with links to everything about data engineering. |
 | [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | Curated coding interview preparation materials. |
 | [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge. |
-| [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) | Interactive coding challenges. |
 
 ### Python
 
@@ -251,6 +254,7 @@
 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. |
 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons to get started with Generative AI. |
 | [happy-llm](https://github.com/datawhalechina/happy-llm) | A tutorial on the principles and practice of large language models from scratch. |
+| [hello-agents](https://github.com/datawhalechina/hello-agents) | Build AI agents from scratch — principles and practice tutorial (Chinese). |
 
 ### Rust
 
