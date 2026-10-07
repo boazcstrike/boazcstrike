@@ -115,6 +115,8 @@
 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's LLM coding observations. |
 | [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent context across sessions for every agent: captures, compresses, and re-injects what your agent does. |
 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | MCP server giving coding agents control over a Chrome browser via DevTools. |
+| [i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill that stops your coding agent from burying the answer, with ADHD-friendly output. |
+| [axi](https://github.com/kunchenguid/axi) | Design principles for agent ergonomics with higher accuracy and lower token cost than MCP or plain CLI. |
 
 ### Automation & Agents
 
@@ -139,6 +141,8 @@
 | [voltagent](https://github.com/VoltAgent/voltagent) | AI Agent Engineering Platform built on an open-source TypeScript AI agent framework. |
 | [agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Run and supervise teams of coding agents from planning to merge, on any harness. |
 | [Agent-Quest](https://github.com/FulAppiOS/Agent-Quest) | Real-time gamified dashboard for monitoring Claude Code and Codex AI agents in a medieval fantasy setting. |
+| [herdr](https://github.com/herdrdev/herdr) | The runtime your coding agents live on. |
+| [firstmate](https://github.com/kunchenguid/firstmate) | Talk to one agent and ship with a crew. |
 
 #### Claude
 
@@ -146,6 +150,8 @@
 | --- | --- |
 | [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Projects to quickly start building deployable apps with the Claude API. |
 | [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Notebooks and recipes showing effective ways to use Claude. |
+| [claude-video](https://github.com/bradautomates/claude-video) | Gives Claude the ability to watch any video by downloading, extracting frames and transcribing it. |
+| [pstack-claude](https://github.com/michael-denyer/pstack-claude) | Claude Code, Codex, Pi and other harness versions of Poteto's pstack agent workflows. |
 
 ### Research
 
@@ -153,6 +159,7 @@
 | --- | --- |
 | [Weaszel](https://github.com/smammadov1994/Weaszel) | Weaszel lives in your terminal and surfs the web for you. From research to shopping, it handles the boring stuff so you can relax. |
 | [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-sourced Multimodal AI Agent Stack. |
+| [brain2qwerty](https://github.com/facebookresearch/brain2qwerty) | Non-invasive decoding of typed sentences from MEG and EEG brain recordings. |
 
 ### Training
 
@@ -171,6 +178,8 @@
 | [TripoSR](https://github.com/VAST-AI-Research/TripoSR) | Fast 3D object reconstruction from a single image. |
 | [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) | From images to high-fidelity 3D assets with production-ready PBR material. |
 | [hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Build agents. |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Open-source, fully local ElevenLabs alternative for voice cloning, dubbing, dictation, transcription and audiobooks. |
+| [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Real-time face swap and one-click video deepfake from a single image. |
 
 ## 🌐 Web & Data
 
@@ -221,6 +230,8 @@
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. |
 | [awesome-n8n](https://github.com/restyler/awesome-n8n) | Useful n8n resources. |
 | [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | A curated collection of AI agent use cases across various industries. |
+| [awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods) | Community catalogue of public Claude Code mods (hooks), showing what each can read, write, run or send over the network. |
+| [996.ICU](https://github.com/996icu/996.ICU) | Repo for counting stars and contributing. Press F to pay respect to glorious developers. |
 
 ### Logos
 
