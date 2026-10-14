@@ -64,6 +64,7 @@
 | [Agentic-Bug-Hunter](https://github.com/awarexone/Agentic-Bug-Hunter) | AI-powered bug bounty hunting toolkit that works with or without a subscription. |
 | [dirtyfrag](https://github.com/V4bel/dirtyfrag) | Dirty Frag: universal Linux root LPE chaining xfrm-ESP and RxRPC page-cache writes (CVE-2026-43284, CVE-2026-43500). |
 | [robin](https://github.com/apurvsinghgautam/robin) | AI-powered dark web OSINT tool. |
+| [CanIPhish Email Spoofing Test](https://caniphish.com/free-phishing-tools/email-spoofing-test) | Free web tool that checks whether your domain can be spoofed by scanning its SPF and DMARC records, mail gateways and senders. |
 
 ## 🤖 AI
 
