@@ -65,6 +65,7 @@
 | [dirtyfrag](https://github.com/V4bel/dirtyfrag) | Dirty Frag: universal Linux root LPE chaining xfrm-ESP and RxRPC page-cache writes (CVE-2026-43284, CVE-2026-43500). |
 | [robin](https://github.com/apurvsinghgautam/robin) | AI-powered dark web OSINT tool. |
 | [CanIPhish Email Spoofing Test](https://caniphish.com/free-phishing-tools/email-spoofing-test) | Free web tool that checks whether your domain can be spoofed by scanning its SPF and DMARC records, mail gateways and senders. |
+| [rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
 ## 🤖 AI
 
@@ -118,6 +119,8 @@
 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | MCP server giving coding agents control over a Chrome browser via DevTools. |
 | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill that stops your coding agent from burying the answer, with ADHD-friendly output. |
 | [axi](https://github.com/kunchenguid/axi) | Design principles for agent ergonomics with higher accuracy and lower token cost than MCP or plain CLI. |
+| [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Library of 177 validated agent skills and 100+ scientific databases that turn any AI agent into an AI scientist. |
+| [agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. |
 
 ### Automation & Agents
 
@@ -144,6 +147,7 @@
 | [Agent-Quest](https://github.com/FulAppiOS/Agent-Quest) | Real-time gamified dashboard for monitoring Claude Code and Codex AI agents in a medieval fantasy setting. |
 | [herdr](https://github.com/herdrdev/herdr) | The runtime your coding agents live on. |
 | [firstmate](https://github.com/kunchenguid/firstmate) | Talk to one agent and ship with a crew. |
+| [paperclip](https://github.com/paperclipai/paperclip) | Open-source app for managing teams of AI agents at work. |
 
 #### Claude
 
